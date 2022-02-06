@@ -1,0 +1,89 @@
+.section-tours {
+  color: #ffffff;
+  width: 1030px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  font-size: 18px;
+  line-height: 18px;
+  color: #FFFFFF;
+}
+
+
+.container {
+  max-width: 1370px;
+  margin-left: auto;
+  margin-right: auto;
+  background: url(../background/background\ 1.png) no-repeat; 
+  color: #ffffff;
+}
+
+.header-tours {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 51px;
+}
+.element-hover:hover {
+  color: #F26522;
+}
+
+
+
+
+.tours-logo {
+  display: flex ;
+  max-width: 100px;
+}
+
+.tours-logo-img {
+  padding-right: 8px; 
+  box-sizing: content-box;
+}
+.tours-logo-link {
+margin: 0;
+}
+
+.tours-logo-link {
+  font-weight: bold;
+  font-size: 29px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.logo-span {
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: bold;
+  color: #ffffff;
+ display: block;
+ padding-top: 3px;
+}
+
+.contact-wrapper {
+  display: flex;
+  flex-direction :column-reverse;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+ .tours-mail {
+   
+ }
+
+.tours-list {
+  list-style: none;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.tours-img {
+  position: relative;
+}
+.wrapper-hover {
+  position: absolute;
+  
+}
+
